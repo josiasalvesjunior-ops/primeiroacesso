@@ -1,6 +1,6 @@
 # Olá, seja bem vindo ao meu perfil
 
--Eu sou do Brasil🇧🇷🇧🇷🇧🇷, tenho 15 anos vou fazer 16 em agosto,eu estou usando a plataforma alura e git hub, e agora olhe para isso
+-Eu sou do Brasil🇧🇷🇧🇷🇧🇷, tenho 15 anos vou fazer 16 em agosto,meu nome é Josias eu estou usando a plataforma alura e git hub, e agora olhe para isso
 
 
 
